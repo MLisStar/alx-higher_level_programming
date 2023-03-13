@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 9-max_integer.py
-# MLisStar
 
 
 def max_integer(my_list=[]):
