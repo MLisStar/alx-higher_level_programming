@@ -107,7 +107,7 @@ def recursive_solve(board, row, queens, solutions):
     if queens == len(board):
         solutions.append(get_solution(board))
         return (solutions)
-[O
+
     for c in range(len(board)):
         if board[row][c] == " ":
             tmp_board = board_deepcopy(board)
