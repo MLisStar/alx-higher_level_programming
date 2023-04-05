@@ -1,18 +1,18 @@
 #!/usr/bin/python3
 # 1-rectangle.py
 
-""Defines rectangle class.""
+"""Defines rectangle class."""
 
 class Rectanglee:
-    "Represent rectangle"
+    """Represent rectangle"""
 
     def __init__(self, width=0, height=0):
-        ""initialize new rect.
+        """initialize new rect.
 
         Args:
             width (int): The width of the new rect.
             height (int): height of new rect.
-        ""
+        """
 
     self.width = width
     self.height = height

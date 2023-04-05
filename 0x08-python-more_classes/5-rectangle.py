@@ -1,7 +1,7 @@
 #!/usr/bin/puthon3
 # 5-rectangle.py
 
-""Defines a Rectangle class""
+"""Defines a Rectangle class"""
 
 class Rectangle:
     """Represent a rectangle."""

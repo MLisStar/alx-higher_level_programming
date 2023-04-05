@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # 8-rectangle.py
 
-"""Defines Rectangle class."""i
+"""Defines Rectangle class."""
 
 
 class Rectangle:
