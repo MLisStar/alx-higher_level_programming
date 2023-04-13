@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 # 10-square.py
-"""Contains the definition of the class Square."""
+"""Definition of class Square that inherits from class Rectangle"""
 
 
 Rectangle = __import__('9-rectangle').Rectangle
 
 
 class Square(Rectangle):
-    """Definition of class Square that inherits from class Rectangle"""
+    """Represent a square."""
 
     def __init__(self, size):
         """Initialise an instance of the class Square"""
