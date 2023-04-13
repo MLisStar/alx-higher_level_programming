@@ -1,7 +1,7 @@
 #!/usr/bin/python3
+"""Contains the definition of the class Square.
 """
-Contains the definition of the class Square.
-"""
+
 
 Rectangle = __import__('9-rectangle').Rectangle
 
