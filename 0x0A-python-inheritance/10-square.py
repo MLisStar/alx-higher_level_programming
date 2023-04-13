@@ -1,12 +1,13 @@
 #!/usr/bin/python3
 # 10-square.py
-"""Defines a Rectangle subclass Square."""
+""" File name : 10-square.py
+    It is not allowed to import any module
+"""
 Rectangle = __import__('9-rectangle').Rectangle
 
 
 class Square(Rectangle):
-    """Represent a square."""
-
+    """Square -- Multiple inheritance"""
     def __init__(self, size):
         """Initialize a new square.
         Args:
