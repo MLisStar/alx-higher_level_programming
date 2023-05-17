@@ -113,7 +113,7 @@ class TestSquare_size(unittest.TestCase):
             Square(True, 2, 3)
 
     def test_list_size(self):
-[O        with self.assertRaisesRegex(TypeError, "width must be an integer"):
+        with self.assertRaisesRegex(TypeError, "width must be an integer"):
             Square([1, 2, 3])
 
     def test_set_size(self):
