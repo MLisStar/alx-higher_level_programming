@@ -1,2 +1,2 @@
--- display all records with id=89
-SELECT * FROM first_table WHERE id=89;
+-- Display all records with id=89.
+SELECT * FROM first_table WHERE id = 89;
