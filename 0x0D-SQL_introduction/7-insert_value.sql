@@ -1,2 +1,2 @@
--- Intert a new row
-INSERT INTO hbtn_0c_0.first_table (id, name) VALUES(89, "Best School");
+-- Intert a new row in first_table with values.
+INSERT INTO first_table (id, name) VALUES(89, "Best School");
